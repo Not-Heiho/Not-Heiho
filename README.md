@@ -12,3 +12,5 @@
         help others, blinded by a well-concerted propaganda, to realise this. 
 
         - +Old Red Cracker
+
+![cats](https://hylic.org/img/cats.png)
