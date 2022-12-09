@@ -15,9 +15,5 @@
 
 
 
-<p align="center">
 <img src="https://hylic.org/img/cats.png" alt="w..">
-</p>
-<p align="center">
 I hate the Internet
-</p>
